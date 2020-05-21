@@ -131,6 +131,9 @@ margin: 0 auto;
 .steps span {
     font-size: 38px;
 }
+.trainers {
+    text-align: center;
+}
 footer {
     background: #fce138;
     width: 100%;
