@@ -7,7 +7,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://jhoover1077.github.io/run-buddy/
 
 ## Contribution
 Made with 🖤 by Jack Hoover
